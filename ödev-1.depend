@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1495744790 source:c:\users\casper\desktop\bilal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1495799449 source:c:\users\baz\downloads\bilal\bilal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1495799449 source:c:\users\baz\desktop\ödev-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1495799450 source:d:\Ödevler\1.sinif 2.dÖnem ÖdevlerÝ\2.dönem ödevi\ödev-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
